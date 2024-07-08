@@ -50,8 +50,7 @@ This is a simple Todo App built using Spring Boot, MySQL, JPA, and JSP. It allow
     mvn spring-boot:run
     
 ## Usage
-1. Open your browser and go to http://localhost:8080.
-2. Use the interface to add, edit, delete, and manage your todo items.
+1. Use the interface to add, edit, delete, and manage your todo items.
 
 ## Approach
 ### Backend
